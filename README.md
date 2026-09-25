@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Md. Rayhan 👋
 
-<!--
-**rayhan-ui/rayhan-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and scalable web applications
+using React, Node.js, Express.js and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 MERN Stack Developer
+- ⚛️ React.js & JavaScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🔐 REST APIs & Authentication
+- 🔧 Git & GitHub
+- 🌱 Always learning and building
+
+## 🛠️ Tech Stack
+
+### Frontend
+React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+MongoDB • Firebase
+
+### Tools
+Git • GitHub • VS Code
+
+## 🚀 Featured Projects
+
+### Job Portal
+A full-stack job portal application...
+
+### Live Test Backend
+Backend/API project...
+
+### Movie Finder
+A movie discovery application...
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
